@@ -18,8 +18,8 @@ int main(){
     float area2;
     float PIB2;
     int PontosTuristicos2;
-    float DensidadePopulacional2 = Populacao2 / area2;
-    float Pibpercapita2 = PIB2 / Populacao2;
+    float DensidadePopulacional2;
+    float Pibpercapita2;
 
     
     
